@@ -1,0 +1,1001 @@
+product_id,transaction_id,product_line,quantity,unit_price,tax_5%,total,product_category
+1,1,"Health and beauty",7,74.69,26.1415,548.9715,Good
+2,2,"Electronic accessories",5,15.28,3.82,80.22,Good
+3,3,"Home and lifestyle",7,46.33,16.2155,340.5255,Good
+4,4,"Health and beauty",8,58.22,23.288,489.048,Good
+5,5,"Sports and travel",7,86.31,30.2085,634.3785,Good
+6,6,"Electronic accessories",7,85.39,29.8865,627.6165,Good
+7,7,"Electronic accessories",6,68.84,20.652,433.692,Good
+8,8,"Home and lifestyle",10,73.56,36.78,772.38,Good
+9,9,"Health and beauty",2,36.26,3.626,76.146,Good
+10,10,"Food and beverages",3,54.84,8.226,172.746,Good
+11,11,"Fashion accessories",4,14.48,2.896,60.816,Good
+12,12,"Electronic accessories",4,25.51,5.102,107.142,Good
+13,13,"Electronic accessories",5,46.95,11.7375,246.4875,Good
+14,14,"Food and beverages",10,43.19,21.595,453.495,Good
+15,15,"Health and beauty",10,71.38,35.69,749.49,Good
+16,16,"Sports and travel",6,93.72,28.116,590.436,Good
+17,17,"Health and beauty",7,68.93,24.1255,506.6355,Good
+18,18,"Sports and travel",6,72.61,21.783,457.443,Good
+19,19,"Food and beverages",3,54.67,8.2005,172.2105,Good
+20,20,"Home and lifestyle",2,40.3,4.03,84.63,Good
+21,21,"Electronic accessories",5,86.04,21.51,451.71,Good
+22,22,"Health and beauty",3,87.98,13.197,277.137,Good
+23,23,"Home and lifestyle",2,33.2,3.32,69.72,Good
+24,24,"Electronic accessories",5,34.56,8.64,181.44,Good
+25,25,"Sports and travel",3,88.63,13.2945,279.1845,Good
+26,26,"Home and lifestyle",8,52.59,21.036,441.756,Good
+27,27,"Fashion accessories",1,33.52,1.676,35.196,Good
+28,28,"Fashion accessories",2,87.67,8.767,184.107,Good
+29,29,"Food and beverages",5,88.36,22.09,463.89,Good
+30,30,"Health and beauty",9,24.89,11.2005,235.2105,Good
+31,31,"Fashion accessories",5,94.13,23.5325,494.1825,Good
+32,32,"Sports and travel",9,78.07,35.1315,737.7615,Good
+33,33,"Sports and travel",8,83.78,33.512,703.752,Good
+34,34,"Health and beauty",2,96.58,9.658,202.818,Good
+35,35,"Food and beverages",4,99.42,19.884,417.564,Good
+36,36,"Sports and travel",1,68.12,3.406,71.526,Good
+37,37,"Sports and travel",5,62.62,15.655,328.755,Good
+38,38,"Electronic accessories",9,60.88,27.396,575.316,Good
+39,39,"Health and beauty",8,54.92,21.968,461.328,Good
+40,40,"Home and lifestyle",8,30.12,12.048,253.008,Good
+41,41,"Home and lifestyle",1,86.72,4.336,91.056,Good
+42,42,"Home and lifestyle",2,56.11,5.611,117.831,Good
+43,43,"Sports and travel",6,69.12,20.736,435.456,Good
+44,44,"Food and beverages",8,98.7,39.48,829.08,Good
+45,45,"Health and beauty",2,15.37,1.537,32.277,Good
+46,46,"Electronic accessories",4,93.96,18.792,394.632,Good
+47,47,"Health and beauty",9,56.69,25.5105,535.7205,Good
+48,48,"Food and beverages",9,20.01,9.0045,189.0945,Good
+49,49,"Electronic accessories",6,18.93,5.679,119.259,Good
+50,50,"Fashion accessories",10,82.63,41.315,867.615,Good
+51,51,"Food and beverages",7,91.4,31.99,671.79,Good
+52,52,"Food and beverages",5,44.59,11.1475,234.0975,Good
+53,53,"Fashion accessories",4,17.87,3.574,75.054,Good
+54,54,"Fashion accessories",1,15.43,0.7715,16.2015,Good
+55,55,"Home and lifestyle",2,16.16,1.616,33.936,Good
+56,56,"Electronic accessories",8,85.98,34.392,722.232,Good
+57,57,"Home and lifestyle",2,44.34,4.434,93.114,Good
+58,58,"Health and beauty",8,89.6,35.84,752.64,Good
+59,59,"Home and lifestyle",10,72.35,36.175,759.675,Good
+60,60,"Electronic accessories",6,30.61,9.183,192.843,Good
+61,61,"Sports and travel",3,24.74,3.711,77.931,Good
+62,62,"Home and lifestyle",6,55.73,16.719,351.099,Good
+63,63,"Sports and travel",9,55.07,24.7815,520.4115,Good
+64,64,"Sports and travel",10,15.81,7.905,166.005,Good
+65,65,"Health and beauty",4,75.74,15.148,318.108,Good
+66,66,"Health and beauty",10,15.87,7.935,166.635,Good
+67,67,"Health and beauty",2,33.47,3.347,70.287,Good
+68,68,"Fashion accessories",6,97.61,29.283,614.943,Good
+69,69,"Sports and travel",10,78.77,39.385,827.085,Good
+70,70,"Health and beauty",1,18.33,0.9165,19.2465,Good
+71,71,"Food and beverages",10,89.48,44.74,939.54,Good
+72,72,"Fashion accessories",10,62.12,31.06,652.26,Good
+73,73,"Food and beverages",3,48.52,7.278,152.838,Good
+74,74,"Electronic accessories",6,75.91,22.773,478.233,Good
+75,75,"Home and lifestyle",9,74.67,33.6015,705.6315,Good
+76,76,"Electronic accessories",10,41.65,20.825,437.325,Good
+77,77,"Fashion accessories",9,49.04,22.068,463.428,Good
+78,78,"Fashion accessories",9,20.01,9.0045,189.0945,Good
+79,79,"Food and beverages",10,78.31,39.155,822.255,Good
+80,80,"Health and beauty",5,20.38,5.095,106.995,Good
+81,81,"Health and beauty",6,99.19,29.757,624.897,Good
+82,82,"Food and beverages",3,96.68,14.502,304.542,Good
+83,83,"Food and beverages",8,19.25,7.7,161.7,Good
+84,84,"Food and beverages",4,80.36,16.072,337.512,Good
+85,85,"Sports and travel",5,48.91,12.2275,256.7775,Good
+86,86,"Sports and travel",7,83.06,29.071,610.491,Good
+87,87,"Fashion accessories",5,76.52,19.13,401.73,Good
+88,88,"Food and beverages",7,49.38,17.283,362.943,Good
+89,89,"Sports and travel",1,42.47,2.1235,44.5935,Good
+90,90,"Health and beauty",6,76.99,23.097,485.037,Good
+91,91,"Home and lifestyle",4,47.38,9.476,198.996,Good
+92,92,"Sports and travel",10,44.86,22.43,471.03,Good
+93,93,"Sports and travel",7,21.98,7.693,161.553,Good
+94,94,"Health and beauty",9,64.36,28.962,608.202,Good
+95,95,"Health and beauty",1,89.75,4.4875,94.2375,Good
+96,96,"Electronic accessories",1,97.16,4.858,102.018,Good
+97,97,"Health and beauty",10,87.87,43.935,922.635,Good
+98,98,"Electronic accessories",6,12.45,3.735,78.435,Good
+99,99,"Food and beverages",3,52.75,7.9125,166.1625,Good
+100,100,"Home and lifestyle",6,82.7,24.81,521.01,Good
+101,101,"Fashion accessories",1,48.71,2.4355,51.1455,Good
+102,102,"Fashion accessories",9,78.55,35.3475,742.2975,Good
+103,103,"Electronic accessories",9,23.07,10.3815,218.0115,Good
+104,104,"Food and beverages",6,58.26,17.478,367.038,Good
+105,105,"Health and beauty",7,30.35,10.6225,223.0725,Good
+106,106,"Electronic accessories",10,88.67,44.335,931.035,Good
+107,107,"Fashion accessories",6,27.38,8.214,172.494,Good
+108,108,"Sports and travel",6,62.13,18.639,391.419,Good
+109,109,"Food and beverages",9,33.98,15.291,321.111,Good
+110,110,"Electronic accessories",10,81.97,40.985,860.685,Good
+111,111,"Sports and travel",2,16.49,1.649,34.629,Good
+112,112,"Health and beauty",3,98.21,14.7315,309.3615,Good
+113,113,"Fashion accessories",7,72.84,25.494,535.374,Good
+114,114,"Home and lifestyle",9,58.07,26.1315,548.7615,Good
+115,115,"Home and lifestyle",9,80.79,36.3555,763.4655,Good
+116,116,"Fashion accessories",3,27.02,4.053,85.113,Good
+117,117,"Fashion accessories",5,21.94,5.485,115.185,Good
+118,118,"Fashion accessories",1,51.36,2.568,53.928,Good
+119,119,"Food and beverages",10,10.96,5.48,115.08,Good
+120,120,"Home and lifestyle",2,53.44,5.344,112.224,Good
+121,121,"Electronic accessories",8,99.56,39.824,836.304,Good
+122,122,"Sports and travel",7,57.12,19.992,419.832,Good
+123,123,"Sports and travel",9,99.96,44.982,944.622,Good
+124,124,"Home and lifestyle",8,63.91,25.564,536.844,Good
+125,125,"Fashion accessories",8,56.47,22.588,474.348,Good
+126,126,"Home and lifestyle",7,93.69,32.7915,688.6215,Good
+127,127,"Sports and travel",5,32.25,8.0625,169.3125,Good
+128,128,"Fashion accessories",9,31.73,14.2785,299.8485,Good
+129,129,"Food and beverages",8,68.54,27.416,575.736,Good
+130,130,"Sports and travel",9,90.28,40.626,853.146,Good
+131,131,"Fashion accessories",7,39.62,13.867,291.207,Good
+132,132,"Sports and travel",6,92.13,27.639,580.419,Good
+133,133,"Sports and travel",4,34.84,6.968,146.328,Good
+134,134,"Electronic accessories",6,87.45,26.235,550.935,Good
+135,135,"Health and beauty",6,81.3,24.39,512.19,Good
+136,136,"Fashion accessories",3,90.22,13.533,284.193,Good
+137,137,"Electronic accessories",5,26.31,6.5775,138.1275,Good
+138,138,"Home and lifestyle",6,34.42,10.326,216.846,Good
+139,139,"Sports and travel",10,51.91,25.955,545.055,Good
+140,140,"Sports and travel",8,72.5,29,609,Good
+141,141,"Sports and travel",10,89.8,44.9,942.9,Good
+142,142,"Health and beauty",10,90.5,45.25,950.25,Good
+143,143,"Health and beauty",10,68.6,34.3,720.3,Good
+144,144,"Food and beverages",1,30.41,1.5205,31.9305,Good
+145,145,"Home and lifestyle",6,77.95,23.385,491.085,Good
+146,146,"Health and beauty",6,46.26,13.878,291.438,Good
+147,147,"Fashion accessories",10,30.14,15.07,316.47,Good
+148,148,"Health and beauty",4,66.14,13.228,277.788,Good
+149,149,"Home and lifestyle",8,71.86,28.744,603.624,Good
+150,150,"Health and beauty",8,32.46,12.984,272.664,Good
+151,151,"Fashion accessories",4,91.54,18.308,384.468,Good
+152,152,"Sports and travel",7,34.56,12.096,254.016,Good
+153,153,"Fashion accessories",9,83.24,37.458,786.618,Good
+154,154,"Food and beverages",6,16.48,4.944,103.824,Good
+155,155,"Sports and travel",8,80.97,32.388,680.148,Good
+156,156,"Food and beverages",5,92.29,23.0725,484.5225,Good
+157,157,"Electronic accessories",1,72.17,3.6085,75.7785,Good
+158,158,"Home and lifestyle",5,50.28,12.57,263.97,Good
+159,159,"Health and beauty",9,97.22,43.749,918.729,Good
+160,160,"Sports and travel",6,93.39,28.017,588.357,Good
+161,161,"Food and beverages",8,43.18,17.272,362.712,Good
+162,162,"Sports and travel",1,63.69,3.1845,66.8745,Good
+163,163,"Food and beverages",7,45.79,16.0265,336.5565,Good
+164,164,"Sports and travel",2,76.4,7.64,160.44,Good
+165,165,"Food and beverages",10,39.9,19.95,418.95,Good
+166,166,"Health and beauty",8,42.57,17.028,357.588,Good
+167,167,"Home and lifestyle",10,95.58,47.79,1003.59,Good
+168,168,"Fashion accessories",10,98.98,49.49,1039.29,Good
+169,169,"Food and beverages",6,51.28,15.384,323.064,Good
+170,170,"Sports and travel",7,69.52,24.332,510.972,Good
+171,171,"Health and beauty",5,70.01,17.5025,367.5525,Good
+172,172,"Food and beverages",5,80.05,20.0125,420.2625,Good
+173,173,"Electronic accessories",8,20.85,8.34,175.14,Good
+174,174,"Electronic accessories",6,52.89,15.867,333.207,Good
+175,175,"Food and beverages",8,19.79,7.916,166.236,Good
+176,176,"Home and lifestyle",9,33.84,15.228,319.788,Good
+177,177,"Food and beverages",8,22.17,8.868,186.228,Good
+178,178,"Fashion accessories",7,22.51,7.8785,165.4485,Good
+179,179,"Food and beverages",6,73.88,22.164,465.444,Good
+180,180,"Health and beauty",3,86.8,13.02,273.42,Good
+181,181,"Fashion accessories",7,64.26,22.491,472.311,Good
+182,182,"Food and beverages",8,38.47,15.388,323.148,Good
+183,183,"Sports and travel",10,15.5,7.75,162.75,Good
+184,184,"Health and beauty",8,34.31,13.724,288.204,Good
+185,185,"Sports and travel",7,12.34,4.319,90.699,Good
+186,186,"Food and beverages",3,18.08,2.712,56.952,Good
+187,187,"Home and lifestyle",8,94.49,37.796,793.716,Good
+188,188,"Home and lifestyle",4,46.47,9.294,195.174,Good
+189,189,"Home and lifestyle",1,74.07,3.7035,77.7735,Good
+190,190,"Home and lifestyle",4,69.81,13.962,293.202,Good
+191,191,"Home and lifestyle",3,77.04,11.556,242.676,Good
+192,192,"Fashion accessories",2,73.52,7.352,154.392,Good
+193,193,"Food and beverages",9,87.8,39.51,829.71,Good
+194,194,"Home and lifestyle",4,25.55,5.11,107.31,Good
+195,195,"Electronic accessories",5,32.71,8.1775,171.7275,Good
+196,196,"Fashion accessories",1,74.29,3.7145,78.0045,Good
+197,197,"Health and beauty",2,43.7,4.37,91.77,Good
+198,198,"Home and lifestyle",1,25.29,1.2645,26.5545,Good
+199,199,"Health and beauty",4,41.5,8.3,174.3,Good
+200,200,"Food and beverages",5,71.39,17.8475,374.7975,Good
+201,201,"Sports and travel",6,19.15,5.745,120.645,Good
+202,202,"Electronic accessories",4,57.49,11.498,241.458,Good
+203,203,"Electronic accessories",7,61.41,21.4935,451.3635,Good
+204,204,"Health and beauty",10,25.9,12.95,271.95,Good
+205,205,"Home and lifestyle",5,17.77,4.4425,93.2925,Good
+206,206,"Health and beauty",9,23.03,10.3635,217.6335,Good
+207,207,"Electronic accessories",9,66.65,29.9925,629.8425,Good
+208,208,"Home and lifestyle",10,28.53,14.265,299.565,Good
+209,209,"Fashion accessories",3,30.37,4.5555,95.6655,Good
+210,210,"Electronic accessories",9,99.73,44.8785,942.4485,Good
+211,211,"Electronic accessories",9,26.23,11.8035,247.8735,Good
+212,212,"Food and beverages",9,93.26,41.967,881.307,Good
+213,213,"Home and lifestyle",5,92.36,23.09,484.89,Good
+214,214,"Sports and travel",3,46.42,6.963,146.223,Good
+215,215,"Sports and travel",7,29.61,10.3635,217.6335,Good
+216,216,"Home and lifestyle",1,18.28,0.914,19.194,Good
+217,217,"Sports and travel",5,24.77,6.1925,130.0425,Good
+218,218,"Electronic accessories",3,94.64,14.196,298.116,Good
+219,219,"Fashion accessories",8,94.87,37.948,796.908,Good
+220,220,"Food and beverages",3,57.34,8.601,180.621,Good
+221,221,"Electronic accessories",6,45.35,13.605,285.705,Good
+222,222,"Food and beverages",7,62.08,21.728,456.288,Good
+223,223,"Electronic accessories",5,11.81,2.9525,62.0025,Good
+224,224,"Fashion accessories",1,12.54,0.627,13.167,Good
+225,225,"Food and beverages",2,43.25,4.325,90.825,Good
+226,226,"Sports and travel",2,87.16,8.716,183.036,Good
+227,227,"Health and beauty",9,69.37,31.2165,655.5465,Good
+228,228,"Electronic accessories",4,37.06,7.412,155.652,Good
+229,229,"Electronic accessories",6,90.7,27.21,571.41,Good
+230,230,"Home and lifestyle",8,63.42,25.368,532.728,Good
+231,231,"Fashion accessories",2,81.37,8.137,170.877,Good
+232,232,"Electronic accessories",3,10.59,1.5885,33.3585,Good
+233,233,"Health and beauty",9,84.09,37.8405,794.6505,Good
+234,234,"Fashion accessories",4,73.82,14.764,310.044,Good
+235,235,"Health and beauty",10,51.94,25.97,545.37,Good
+236,236,"Sports and travel",2,93.14,9.314,195.594,Good
+237,237,"Health and beauty",5,17.41,4.3525,91.4025,Good
+238,238,"Fashion accessories",5,44.22,11.055,232.155,Good
+239,239,"Electronic accessories",5,13.22,3.305,69.405,Good
+240,240,"Fashion accessories",1,89.69,4.4845,94.1745,Good
+241,241,"Food and beverages",9,24.94,11.223,235.683,Good
+242,242,"Health and beauty",2,59.77,5.977,125.517,Good
+243,243,"Fashion accessories",2,93.2,9.32,195.72,Good
+244,244,"Home and lifestyle",4,62.65,12.53,263.13,Good
+245,245,"Home and lifestyle",8,93.87,37.548,788.508,Good
+246,246,"Home and lifestyle",8,47.59,19.036,399.756,Good
+247,247,"Electronic accessories",3,81.4,12.21,256.41,Good
+248,248,"Fashion accessories",5,17.94,4.485,94.185,Good
+249,249,"Electronic accessories",4,77.72,15.544,326.424,Good
+250,250,"Food and beverages",7,73.06,25.571,536.991,Good
+251,251,"Food and beverages",9,46.55,20.9475,439.8975,Good
+252,252,"Fashion accessories",10,35.19,17.595,369.495,Good
+253,253,"Sports and travel",2,14.39,1.439,30.219,Good
+254,254,"Home and lifestyle",4,23.75,4.75,99.75,Good
+255,255,"Home and lifestyle",8,58.9,23.56,494.76,Good
+256,256,"Fashion accessories",4,32.62,6.524,137.004,Good
+257,257,"Electronic accessories",1,66.35,3.3175,69.6675,Good
+258,258,"Home and lifestyle",6,25.91,7.773,163.233,Good
+259,259,"Electronic accessories",4,32.25,6.45,135.45,Good
+260,260,"Electronic accessories",4,65.94,13.188,276.948,Good
+261,261,"Electronic accessories",9,75.06,33.777,709.317,Good
+262,262,"Fashion accessories",4,16.45,3.29,69.09,Good
+263,263,"Fashion accessories",4,38.3,7.66,160.86,Good
+264,264,"Sports and travel",10,22.24,11.12,233.52,Good
+265,265,"Sports and travel",1,54.45,2.7225,57.1725,Good
+266,266,"Sports and travel",7,98.4,34.44,723.24,Good
+267,267,"Home and lifestyle",4,35.47,7.094,148.974,Good
+268,268,"Food and beverages",10,74.6,37.3,783.3,Good
+269,269,"Home and lifestyle",4,70.74,14.148,297.108,Good
+270,270,"Home and lifestyle",10,35.54,17.77,373.17,Good
+271,271,"Sports and travel",5,67.43,16.8575,354.0075,Good
+272,272,"Health and beauty",2,21.12,2.112,44.352,Good
+273,273,"Home and lifestyle",9,21.54,9.693,203.553,Good
+274,274,"Home and lifestyle",2,12.03,1.203,25.263,Good
+275,275,"Health and beauty",6,99.71,29.913,628.173,Good
+276,276,"Fashion accessories",7,47.97,16.7895,352.5795,Good
+277,277,"Home and lifestyle",10,21.82,10.91,229.11,Good
+278,278,"Fashion accessories",4,95.42,19.084,400.764,Good
+279,279,"Fashion accessories",10,70.99,35.495,745.395,Good
+280,280,"Sports and travel",10,44.02,22.01,462.21,Good
+281,281,"Home and lifestyle",8,69.96,27.984,587.664,Good
+282,282,"Home and lifestyle",1,37,1.85,38.85,Good
+283,283,"Sports and travel",1,15.34,0.767,16.107,Good
+284,284,"Health and beauty",6,99.83,29.949,628.929,Good
+285,285,"Health and beauty",4,47.67,9.534,200.214,Good
+286,286,"Health and beauty",5,66.68,16.67,350.07,Good
+287,287,"Home and lifestyle",1,74.86,3.743,78.603,Good
+288,288,"Sports and travel",9,23.75,10.6875,224.4375,Good
+289,289,"Food and beverages",7,48.51,16.9785,356.5485,Good
+290,290,"Home and lifestyle",7,94.88,33.208,697.368,Good
+291,291,"Electronic accessories",10,40.3,20.15,423.15,Good
+292,292,"Electronic accessories",7,27.85,9.7475,204.6975,Good
+293,293,"Electronic accessories",1,62.48,3.124,65.604,Good
+294,294,"Food and beverages",2,36.36,3.636,76.356,Good
+295,295,"Health and beauty",10,18.11,9.055,190.155,Good
+296,296,"Electronic accessories",5,51.92,12.98,272.58,Good
+297,297,"Electronic accessories",4,28.84,5.768,121.128,Good
+298,298,"Home and lifestyle",6,78.38,23.514,493.794,Good
+299,299,"Home and lifestyle",4,60.01,12.002,252.042,Good
+300,300,"Home and lifestyle",1,88.61,4.4305,93.0405,Good
+301,301,"Fashion accessories",2,99.82,9.982,209.622,Good
+302,302,"Health and beauty",1,39.01,1.9505,40.9605,Good
+303,303,"Food and beverages",1,48.61,2.4305,51.0405,Good
+304,304,"Electronic accessories",4,51.19,10.238,214.998,Good
+305,305,"Electronic accessories",8,14.96,5.984,125.664,Good
+306,306,"Electronic accessories",7,72.2,25.27,530.67,Good
+307,307,"Sports and travel",7,40.23,14.0805,295.6905,Good
+308,308,"Home and lifestyle",8,88.79,35.516,745.836,Good
+309,309,"Electronic accessories",3,26.48,3.972,83.412,Good
+310,310,"Fashion accessories",2,81.91,8.191,172.011,Good
+311,311,"Sports and travel",6,79.93,23.979,503.559,Good
+312,312,"Fashion accessories",2,69.33,6.933,145.593,Good
+313,313,"Food and beverages",5,14.23,3.5575,74.7075,Good
+314,314,"Health and beauty",9,15.55,6.9975,146.9475,Good
+315,315,"Electronic accessories",10,78.13,39.065,820.365,Good
+316,316,"Food and beverages",2,99.37,9.937,208.677,Good
+317,317,"Food and beverages",3,21.08,3.162,66.402,Good
+318,318,"Electronic accessories",5,74.79,18.6975,392.6475,Good
+319,319,"Health and beauty",7,29.67,10.3845,218.0745,Good
+320,320,"Health and beauty",4,44.07,8.814,185.094,Good
+321,321,"Food and beverages",9,22.93,10.3185,216.6885,Good
+322,322,"Health and beauty",1,39.42,1.971,41.391,Good
+323,323,"Health and beauty",6,15.26,4.578,96.138,Good
+324,324,"Fashion accessories",5,61.77,15.4425,324.2925,Good
+325,325,"Home and lifestyle",6,21.52,6.456,135.576,Good
+326,326,"Sports and travel",4,97.74,19.548,410.508,Good
+327,327,"Food and beverages",5,99.78,24.945,523.845,Good
+328,328,"Food and beverages",4,94.26,18.852,395.892,Good
+329,329,"Health and beauty",4,51.13,10.226,214.746,Good
+330,330,"Electronic accessories",4,36.36,7.272,152.712,Good
+331,331,"Home and lifestyle",9,22.02,9.909,208.089,Good
+332,332,"Food and beverages",3,32.9,4.935,103.635,Good
+333,333,"Fashion accessories",5,77.02,19.255,404.355,Good
+334,334,"Food and beverages",2,23.48,2.348,49.308,Good
+335,335,"Sports and travel",5,14.7,3.675,77.175,Good
+336,336,"Electronic accessories",5,28.45,7.1125,149.3625,Good
+337,337,"Fashion accessories",9,76.4,34.38,721.98,Good
+338,338,"Sports and travel",6,57.95,17.385,365.085,Good
+339,339,"Electronic accessories",3,47.65,7.1475,150.0975,Good
+340,340,"Food and beverages",9,42.82,19.269,404.649,Good
+341,341,"Electronic accessories",3,48.09,7.2135,151.4835,Good
+342,342,"Health and beauty",7,55.97,19.5895,411.3795,Good
+343,343,"Health and beauty",7,76.9,26.915,565.215,Good
+344,344,"Food and beverages",5,97.03,24.2575,509.4075,Good
+345,345,"Sports and travel",3,44.65,6.6975,140.6475,Good
+346,346,"Fashion accessories",9,77.93,35.0685,736.4385,Good
+347,347,"Electronic accessories",1,71.95,3.5975,75.5475,Good
+348,348,"Home and lifestyle",8,89.25,35.7,749.7,Good
+349,349,"Electronic accessories",7,26.02,9.107,191.247,Good
+350,350,"Health and beauty",10,13.5,6.75,141.75,Good
+351,351,"Fashion accessories",10,99.3,49.65,1042.65,Good
+352,352,"Electronic accessories",7,51.69,18.0915,379.9215,Good
+353,353,"Fashion accessories",7,54.73,19.1555,402.2655,Good
+354,354,"Home and lifestyle",9,27,12.15,255.15,Good
+355,355,"Electronic accessories",1,30.24,1.512,31.752,Good
+356,356,"Food and beverages",4,89.14,17.828,374.388,Good
+357,357,"Fashion accessories",10,37.55,18.775,394.275,Good
+358,358,"Sports and travel",10,95.44,47.72,1002.12,Good
+359,359,"Electronic accessories",3,27.5,4.125,86.625,Good
+360,360,"Sports and travel",1,74.97,3.7485,78.7185,Good
+361,361,"Food and beverages",8,80.96,32.384,680.064,Good
+362,362,"Food and beverages",8,94.47,37.788,793.548,Good
+363,363,"Food and beverages",2,99.79,9.979,209.559,Good
+364,364,"Home and lifestyle",6,73.22,21.966,461.286,Good
+365,365,"Food and beverages",4,41.24,8.248,173.208,Good
+366,366,"Fashion accessories",4,81.68,16.336,343.056,Good
+367,367,"Electronic accessories",9,51.32,23.094,484.974,Good
+368,368,"Home and lifestyle",4,65.94,13.188,276.948,Good
+369,369,"Sports and travel",10,14.36,7.18,150.78,Good
+370,370,"Electronic accessories",9,21.5,9.675,203.175,Good
+371,371,"Electronic accessories",7,26.26,9.191,193.011,Good
+372,372,"Fashion accessories",2,60.96,6.096,128.016,Good
+373,373,"Home and lifestyle",6,70.11,21.033,441.693,Good
+374,374,"Fashion accessories",6,42.08,12.624,265.104,Good
+375,375,"Home and lifestyle",5,67.09,16.7725,352.2225,Good
+376,376,"Fashion accessories",5,96.7,24.175,507.675,Good
+377,377,"Home and lifestyle",9,35.38,15.921,334.341,Good
+378,378,"Sports and travel",7,95.49,33.4215,701.8515,Good
+379,379,"Fashion accessories",4,96.98,19.396,407.316,Good
+380,380,"Electronic accessories",4,23.65,4.73,99.33,Good
+381,381,"Sports and travel",4,82.33,16.466,345.786,Good
+382,382,"Electronic accessories",2,26.61,2.661,55.881,Good
+383,383,"Food and beverages",5,99.69,24.9225,523.3725,Good
+384,384,"Food and beverages",4,74.89,14.978,314.538,Good
+385,385,"Food and beverages",5,40.94,10.235,214.935,Good
+386,386,"Sports and travel",1,75.82,3.791,79.611,Good
+387,387,"Food and beverages",6,46.77,14.031,294.651,Good
+388,388,"Health and beauty",10,32.32,16.16,339.36,Good
+389,389,"Fashion accessories",9,54.07,24.3315,510.9615,Good
+390,390,"Food and beverages",7,18.22,6.377,133.917,Good
+391,391,"Fashion accessories",3,80.48,12.072,253.512,Good
+392,392,"Fashion accessories",10,37.95,18.975,398.475,Good
+393,393,"Electronic accessories",1,76.82,3.841,80.661,Good
+394,394,"Sports and travel",10,52.26,26.13,548.73,Good
+395,395,"Health and beauty",1,79.74,3.987,83.727,Good
+396,396,"Health and beauty",5,77.5,19.375,406.875,Good
+397,397,"Food and beverages",5,54.27,13.5675,284.9175,Good
+398,398,"Home and lifestyle",9,13.59,6.1155,128.4255,Good
+399,399,"Health and beauty",6,41.06,12.318,258.678,Good
+400,400,"Electronic accessories",9,19.24,8.658,181.818,Good
+401,401,"Food and beverages",6,39.43,11.829,248.409,Good
+402,402,"Home and lifestyle",4,46.22,9.244,194.124,Good
+403,403,"Home and lifestyle",1,13.98,0.699,14.679,Good
+404,404,"Fashion accessories",5,39.75,9.9375,208.6875,Good
+405,405,"Fashion accessories",7,97.79,34.2265,718.7565,Good
+406,406,"Sports and travel",4,67.26,13.452,282.492,Good
+407,407,"Food and beverages",5,13.79,3.4475,72.3975,Good
+408,408,"Fashion accessories",4,68.71,13.742,288.582,Good
+409,409,"Home and lifestyle",4,56.53,11.306,237.426,Good
+410,410,"Fashion accessories",5,23.82,5.955,125.055,Good
+411,411,"Health and beauty",10,34.21,17.105,359.205,Good
+412,412,"Sports and travel",2,21.87,2.187,45.927,Good
+413,413,"Health and beauty",5,20.97,5.2425,110.0925,Good
+414,414,"Sports and travel",3,25.84,3.876,81.396,Good
+415,415,"Home and lifestyle",8,50.93,20.372,427.812,Good
+416,416,"Health and beauty",1,96.11,4.8055,100.9155,Good
+417,417,"Home and lifestyle",4,45.38,9.076,190.596,Good
+418,418,"Health and beauty",1,81.51,4.0755,85.5855,Good
+419,419,"Health and beauty",2,57.22,5.722,120.162,Good
+420,420,"Electronic accessories",7,25.22,8.827,185.367,Good
+421,421,"Food and beverages",3,38.6,5.79,121.59,Good
+422,422,"Electronic accessories",3,84.05,12.6075,264.7575,Good
+423,423,"Fashion accessories",10,97.21,48.605,1020.705,Good
+424,424,"Fashion accessories",8,25.42,10.168,213.528,Good
+425,425,"Fashion accessories",1,16.28,0.814,17.094,Good
+426,426,"Fashion accessories",9,40.61,18.2745,383.7645,Good
+427,427,"Health and beauty",7,53.17,18.6095,390.7995,Good
+428,428,"Food and beverages",3,20.87,3.1305,65.7405,Good
+429,429,"Sports and travel",5,67.27,16.8175,353.1675,Good
+430,430,"Home and lifestyle",10,90.65,45.325,951.825,Good
+431,431,"Fashion accessories",2,69.08,6.908,145.068,Good
+432,432,"Food and beverages",2,43.27,4.327,90.867,Good
+433,433,"Electronic accessories",6,23.46,7.038,147.798,Good
+434,434,"Fashion accessories",7,95.54,33.439,702.219,Good
+435,435,"Fashion accessories",1,47.44,2.372,49.812,Good
+436,436,"Sports and travel",9,99.24,44.658,937.818,Good
+437,437,"Sports and travel",4,82.93,16.586,348.306,Good
+438,438,"Home and lifestyle",6,33.99,10.197,214.137,Good
+439,439,"Food and beverages",4,17.04,3.408,71.568,Good
+440,440,"Electronic accessories",8,40.86,16.344,343.224,Good
+441,441,"Food and beverages",5,17.44,4.36,91.56,Good
+442,442,"Sports and travel",8,88.43,35.372,742.812,Good
+443,443,"Home and lifestyle",9,89.21,40.1445,843.0345,Good
+444,444,"Fashion accessories",1,12.78,0.639,13.419,Good
+445,445,"Sports and travel",7,19.1,6.685,140.385,Good
+446,446,"Health and beauty",1,19.15,0.9575,20.1075,Good
+447,447,"Food and beverages",10,27.66,13.83,290.43,Good
+448,448,"Fashion accessories",3,45.74,6.861,144.081,Good
+449,449,"Health and beauty",1,27.07,1.3535,28.4235,Good
+450,450,"Sports and travel",1,39.12,1.956,41.076,Good
+451,451,"Electronic accessories",6,74.71,22.413,470.673,Good
+452,452,"Electronic accessories",6,22.01,6.603,138.663,Good
+453,453,"Food and beverages",5,63.61,15.9025,333.9525,Good
+454,454,"Health and beauty",1,25,1.25,26.25,Good
+455,455,"Electronic accessories",4,20.77,4.154,87.234,Good
+456,456,"Fashion accessories",5,29.56,7.39,155.19,Good
+457,457,"Food and beverages",9,77.4,34.83,731.43,Good
+458,458,"Electronic accessories",10,79.39,39.695,833.595,Good
+459,459,"Electronic accessories",10,46.57,23.285,488.985,Good
+460,460,"Food and beverages",1,35.89,1.7945,37.6845,Good
+461,461,"Food and beverages",5,40.52,10.13,212.73,Good
+462,462,"Food and beverages",10,73.05,36.525,767.025,Good
+463,463,"Sports and travel",4,73.95,14.79,310.59,Good
+464,464,"Food and beverages",1,22.62,1.131,23.751,Good
+465,465,"Food and beverages",5,51.34,12.835,269.535,Good
+466,466,"Sports and travel",10,54.55,27.275,572.775,Good
+467,467,"Health and beauty",7,37.15,13.0025,273.0525,Good
+468,468,"Sports and travel",6,37.02,11.106,233.226,Good
+469,469,"Food and beverages",1,21.58,1.079,22.659,Good
+470,470,"Electronic accessories",1,98.84,4.942,103.782,Good
+471,471,"Home and lifestyle",6,83.77,25.131,527.751,Good
+472,472,"Sports and travel",4,40.05,8.01,168.21,Good
+473,473,"Fashion accessories",10,43.13,21.565,452.865,Good
+474,474,"Health and beauty",8,72.57,29.028,609.588,Good
+475,475,"Electronic accessories",5,64.44,16.11,338.31,Good
+476,476,"Health and beauty",3,65.18,9.777,205.317,Good
+477,477,"Sports and travel",5,33.26,8.315,174.615,Good
+478,478,"Electronic accessories",4,84.07,16.814,353.094,Good
+479,479,"Sports and travel",10,34.37,17.185,360.885,Good
+480,480,"Electronic accessories",1,38.6,1.93,40.53,Good
+481,481,"Food and beverages",8,65.97,26.388,554.148,Good
+482,482,"Electronic accessories",10,32.8,16.4,344.4,Good
+483,483,"Sports and travel",5,37.14,9.285,194.985,Good
+484,484,"Home and lifestyle",10,60.38,30.19,633.99,Good
+485,485,"Sports and travel",10,36.98,18.49,388.29,Good
+486,486,"Sports and travel",4,49.49,9.898,207.858,Good
+487,487,"Fashion accessories",10,41.09,20.545,431.445,Good
+488,488,"Fashion accessories",4,37.15,7.43,156.03,Good
+489,489,"Home and lifestyle",1,22.96,1.148,24.108,Good
+490,490,"Home and lifestyle",9,77.68,34.956,734.076,Good
+491,491,"Fashion accessories",2,34.7,3.47,72.87,Good
+492,492,"Fashion accessories",10,19.66,9.83,206.43,Good
+493,493,"Health and beauty",8,25.32,10.128,212.688,Good
+494,494,"Home and lifestyle",10,12.12,6.06,127.26,Good
+495,495,"Fashion accessories",2,99.89,9.989,209.769,Good
+496,496,"Sports and travel",8,75.92,30.368,637.728,Good
+497,497,"Electronic accessories",2,63.22,6.322,132.762,Good
+498,498,"Food and beverages",6,90.24,27.072,568.512,Good
+499,499,"Sports and travel",1,98.13,4.9065,103.0365,Good
+500,500,"Sports and travel",8,51.52,20.608,432.768,Good
+501,501,"Sports and travel",1,73.97,3.6985,77.6685,Good
+502,502,"Fashion accessories",1,31.9,1.595,33.495,Good
+503,503,"Home and lifestyle",2,69.4,6.94,145.74,Good
+504,504,"Sports and travel",2,93.31,9.331,195.951,Good
+505,505,"Sports and travel",1,88.45,4.4225,92.8725,Good
+506,506,"Electronic accessories",8,24.18,9.672,203.112,Good
+507,507,"Sports and travel",3,48.5,7.275,152.775,Good
+508,508,"Food and beverages",6,84.05,25.215,529.515,Good
+509,509,"Health and beauty",5,61.29,15.3225,321.7725,Good
+510,510,"Home and lifestyle",6,15.95,4.785,100.485,Good
+511,511,"Sports and travel",7,90.74,31.759,666.939,Good
+512,512,"Home and lifestyle",5,42.91,10.7275,225.2775,Good
+513,513,"Fashion accessories",7,54.28,18.998,398.958,Good
+514,514,"Electronic accessories",7,99.55,34.8425,731.6925,Good
+515,515,"Sports and travel",7,58.39,20.4365,429.1665,Good
+516,516,"Fashion accessories",1,51.47,2.5735,54.0435,Good
+517,517,"Health and beauty",5,54.86,13.715,288.015,Good
+518,518,"Home and lifestyle",5,39.39,9.8475,206.7975,Good
+519,519,"Home and lifestyle",2,34.73,3.473,72.933,Good
+520,520,"Sports and travel",5,71.92,17.98,377.58,Good
+521,521,"Electronic accessories",3,45.71,6.8565,143.9865,Good
+522,522,"Home and lifestyle",6,83.17,24.951,523.971,Good
+523,523,"Home and lifestyle",6,37.44,11.232,235.872,Good
+524,524,"Health and beauty",2,62.87,6.287,132.027,Good
+525,525,"Food and beverages",6,81.71,24.513,514.773,Good
+526,526,"Sports and travel",5,91.41,22.8525,479.9025,Good
+527,527,"Fashion accessories",4,39.21,7.842,164.682,Good
+528,528,"Fashion accessories",2,59.86,5.986,125.706,Good
+529,529,"Food and beverages",10,54.36,27.18,570.78,Good
+530,530,"Sports and travel",9,98.09,44.1405,926.9505,Good
+531,531,"Health and beauty",6,25.43,7.629,160.209,Good
+532,532,"Fashion accessories",8,86.68,34.672,728.112,Good
+533,533,"Electronic accessories",10,22.95,11.475,240.975,Good
+534,534,"Food and beverages",9,16.31,7.3395,154.1295,Good
+535,535,"Home and lifestyle",5,28.32,7.08,148.68,Good
+536,536,"Home and lifestyle",7,16.67,5.8345,122.5245,Good
+537,537,"Fashion accessories",1,73.96,3.698,77.658,Good
+538,538,"Home and lifestyle",1,97.94,4.897,102.837,Good
+539,539,"Fashion accessories",4,73.05,14.61,306.81,Good
+540,540,"Food and beverages",6,87.48,26.244,551.124,Good
+541,541,"Home and lifestyle",3,30.68,4.602,96.642,Good
+542,542,"Health and beauty",1,75.88,3.794,79.674,Good
+543,543,"Sports and travel",4,20.18,4.036,84.756,Good
+544,544,"Electronic accessories",6,18.77,5.631,118.251,Good
+545,545,"Food and beverages",1,71.2,3.56,74.76,Good
+546,546,"Home and lifestyle",4,38.81,7.762,163.002,Good
+547,547,"Fashion accessories",10,29.42,14.71,308.91,Good
+548,548,"Sports and travel",9,60.95,27.4275,575.9775,Good
+549,549,"Sports and travel",5,51.54,12.885,270.585,Good
+550,550,"Electronic accessories",6,66.06,19.818,416.178,Good
+551,551,"Fashion accessories",3,57.27,8.5905,180.4005,Good
+552,552,"Fashion accessories",9,54.31,24.4395,513.2295,Good
+553,553,"Health and beauty",9,58.24,26.208,550.368,Good
+554,554,"Electronic accessories",6,22.21,6.663,139.923,Good
+555,555,"Electronic accessories",7,19.32,6.762,142.002,Good
+556,556,"Home and lifestyle",3,37.48,5.622,118.062,Good
+557,557,"Fashion accessories",2,72.04,7.204,151.284,Good
+558,558,"Food and beverages",10,98.52,49.26,1034.46,Good
+559,559,"Food and beverages",6,41.66,12.498,262.458,Good
+560,560,"Home and lifestyle",3,72.42,10.863,228.123,Good
+561,561,"Electronic accessories",9,21.58,9.711,203.931,Good
+562,562,"Food and beverages",10,89.2,44.6,936.6,Good
+563,563,"Electronic accessories",8,42.42,16.968,356.328,Good
+564,564,"Electronic accessories",6,74.51,22.353,469.413,Good
+565,565,"Fashion accessories",2,99.25,9.925,208.425,Good
+566,566,"Food and beverages",10,81.21,40.605,852.705,Good
+567,567,"Sports and travel",10,49.33,24.665,517.965,Good
+568,568,"Fashion accessories",9,65.74,29.583,621.243,Good
+569,569,"Fashion accessories",7,79.86,27.951,586.971,Good
+570,570,"Sports and travel",7,73.98,25.893,543.753,Good
+571,571,"Home and lifestyle",5,82.04,20.51,430.71,Good
+572,572,"Sports and travel",10,26.67,13.335,280.035,Good
+573,573,"Food and beverages",7,10.13,3.5455,74.4555,Good
+574,574,"Food and beverages",2,72.39,7.239,152.019,Good
+575,575,"Sports and travel",5,85.91,21.4775,451.0275,Good
+576,576,"Fashion accessories",7,81.31,28.4585,597.6285,Good
+577,577,"Food and beverages",4,60.3,12.06,253.26,Good
+578,578,"Food and beverages",4,31.77,6.354,133.434,Good
+579,579,"Health and beauty",4,64.27,12.854,269.934,Good
+580,580,"Health and beauty",2,69.51,6.951,145.971,Good
+581,581,"Food and beverages",3,27.22,4.083,85.743,Good
+582,582,"Health and beauty",4,77.68,15.536,326.256,Good
+583,583,"Fashion accessories",2,92.98,9.298,195.258,Good
+584,584,"Fashion accessories",4,18.08,3.616,75.936,Good
+585,585,"Sports and travel",3,63.06,9.459,198.639,Good
+586,586,"Health and beauty",4,51.71,10.342,217.182,Good
+587,587,"Food and beverages",3,52.34,7.851,164.871,Good
+588,588,"Sports and travel",5,43.06,10.765,226.065,Good
+589,589,"Fashion accessories",10,59.61,29.805,625.905,Good
+590,590,"Health and beauty",5,14.62,3.655,76.755,Good
+591,591,"Health and beauty",6,46.53,13.959,293.139,Good
+592,592,"Home and lifestyle",7,24.24,8.484,178.164,Good
+593,593,"Sports and travel",1,45.58,2.279,47.859,Good
+594,594,"Sports and travel",3,75.2,11.28,236.88,Good
+595,595,"Sports and travel",3,96.8,14.52,304.92,Good
+596,596,"Health and beauty",3,14.82,2.223,46.683,Good
+597,597,"Food and beverages",3,52.2,7.83,164.43,Good
+598,598,"Sports and travel",9,46.66,20.997,440.937,Good
+599,599,"Fashion accessories",5,36.85,9.2125,193.4625,Good
+600,600,"Home and lifestyle",2,70.32,7.032,147.672,Good
+601,601,"Electronic accessories",1,83.08,4.154,87.234,Good
+602,602,"Fashion accessories",1,64.99,3.2495,68.2395,Good
+603,603,"Food and beverages",10,77.56,38.78,814.38,Good
+604,604,"Sports and travel",6,54.51,16.353,343.413,Good
+605,605,"Fashion accessories",7,51.89,18.1615,381.3915,Good
+606,606,"Home and lifestyle",4,31.75,6.35,133.35,Good
+607,607,"Fashion accessories",7,53.65,18.7775,394.3275,Good
+608,608,"Food and beverages",4,49.79,9.958,209.118,Good
+609,609,"Fashion accessories",1,30.61,1.5305,32.1405,Good
+610,610,"Food and beverages",2,57.89,5.789,121.569,Good
+611,611,"Electronic accessories",1,28.96,1.448,30.408,Good
+612,612,"Food and beverages",9,98.97,44.5365,935.2665,Good
+613,613,"Fashion accessories",3,93.22,13.983,293.643,Good
+614,614,"Sports and travel",1,80.93,4.0465,84.9765,Good
+615,615,"Food and beverages",10,67.45,33.725,708.225,Good
+616,616,"Sports and travel",9,38.72,17.424,365.904,Good
+617,617,"Sports and travel",6,72.6,21.78,457.38,Good
+618,618,"Electronic accessories",5,87.91,21.9775,461.5275,Good
+619,619,"Food and beverages",6,98.53,29.559,620.739,Good
+620,620,"Fashion accessories",6,43.46,13.038,273.798,Good
+621,621,"Food and beverages",3,71.68,10.752,225.792,Good
+622,622,"Food and beverages",1,91.61,4.5805,96.1905,Good
+623,623,"Home and lifestyle",7,94.59,33.1065,695.2365,Good
+624,624,"Fashion accessories",10,83.25,41.625,874.125,Good
+625,625,"Fashion accessories",1,91.35,4.5675,95.9175,Good
+626,626,"Food and beverages",2,78.88,7.888,165.648,Good
+627,627,"Sports and travel",2,60.87,6.087,127.827,Good
+628,628,"Health and beauty",10,82.58,41.29,867.09,Good
+629,629,"Home and lifestyle",3,53.3,7.995,167.895,Good
+630,630,"Fashion accessories",1,12.09,0.6045,12.6945,Good
+631,631,"Sports and travel",10,64.19,32.095,673.995,Good
+632,632,"Electronic accessories",3,78.31,11.7465,246.6765,Good
+633,633,"Food and beverages",2,83.77,8.377,175.917,Good
+634,634,"Home and lifestyle",3,99.7,14.955,314.055,Good
+635,635,"Food and beverages",3,79.91,11.9865,251.7165,Good
+636,636,"Health and beauty",10,66.47,33.235,697.935,Good
+637,637,"Health and beauty",7,28.95,10.1325,212.7825,Good
+638,638,"Electronic accessories",1,46.2,2.31,48.51,Good
+639,639,"Food and beverages",5,17.63,4.4075,92.5575,Good
+640,640,"Fashion accessories",3,52.42,7.863,165.123,Good
+641,641,"Food and beverages",3,98.79,14.8185,311.1885,Good
+642,642,"Electronic accessories",8,88.55,35.42,743.82,Good
+643,643,"Electronic accessories",2,55.67,5.567,116.907,Good
+644,644,"Food and beverages",8,72.52,29.008,609.168,Good
+645,645,"Electronic accessories",5,12.05,3.0125,63.2625,Good
+646,646,"Home and lifestyle",9,19.36,8.712,182.952,Good
+647,647,"Health and beauty",6,70.21,21.063,442.323,Good
+648,648,"Fashion accessories",1,33.63,1.6815,35.3115,Good
+649,649,"Sports and travel",2,15.49,1.549,32.529,Good
+650,650,"Electronic accessories",10,24.74,12.37,259.77,Good
+651,651,"Electronic accessories",5,75.66,18.915,397.215,Good
+652,652,"Health and beauty",6,55.81,16.743,351.603,Good
+653,653,"Home and lifestyle",10,72.78,36.39,764.19,Good
+654,654,"Sports and travel",9,37.32,16.794,352.674,Good
+655,655,"Fashion accessories",4,60.18,12.036,252.756,Good
+656,656,"Electronic accessories",3,15.69,2.3535,49.4235,Good
+657,657,"Electronic accessories",1,99.69,4.9845,104.6745,Good
+658,658,"Fashion accessories",3,88.15,13.2225,277.6725,Good
+659,659,"Sports and travel",5,27.93,6.9825,146.6325,Good
+660,660,"Fashion accessories",1,55.45,2.7725,58.2225,Good
+661,661,"Sports and travel",3,42.97,6.4455,135.3555,Good
+662,662,"Sports and travel",7,17.14,5.999,125.979,Good
+663,663,"Fashion accessories",6,58.75,17.625,370.125,Good
+664,664,"Food and beverages",10,87.1,43.55,914.55,Good
+665,665,"Sports and travel",2,98.8,9.88,207.48,Good
+666,666,"Fashion accessories",4,48.63,9.726,204.246,Good
+667,667,"Food and beverages",3,57.74,8.661,181.881,Good
+668,668,"Health and beauty",4,17.97,3.594,75.474,Good
+669,669,"Health and beauty",6,47.71,14.313,300.573,Good
+670,670,"Sports and travel",2,40.62,4.062,85.302,Good
+671,671,"Fashion accessories",10,56.04,28.02,588.42,Good
+672,672,"Food and beverages",2,93.4,9.34,196.14,Good
+673,673,"Health and beauty",3,73.41,11.0115,231.2415,Good
+674,674,"Health and beauty",8,33.64,13.456,282.576,Good
+675,675,"Electronic accessories",10,45.48,22.74,477.54,Good
+676,676,"Fashion accessories",2,83.77,8.377,175.917,Good
+677,677,"Sports and travel",7,64.08,22.428,470.988,Good
+678,678,"Food and beverages",4,73.47,14.694,308.574,Good
+679,679,"Health and beauty",10,58.95,29.475,618.975,Good
+680,680,"Food and beverages",6,48.5,14.55,305.55,Good
+681,681,"Electronic accessories",1,39.48,1.974,41.454,Good
+682,682,"Sports and travel",1,34.81,1.7405,36.5505,Good
+683,683,"Fashion accessories",6,49.32,14.796,310.716,Good
+684,684,"Fashion accessories",2,21.48,2.148,45.108,Good
+685,685,"Sports and travel",6,23.08,6.924,145.404,Good
+686,686,"Home and lifestyle",2,49.1,4.91,103.11,Good
+687,687,"Sports and travel",2,64.83,6.483,136.143,Good
+688,688,"Home and lifestyle",10,63.56,31.78,667.38,Good
+689,689,"Sports and travel",2,72.88,7.288,153.048,Good
+690,690,"Food and beverages",3,67.1,10.065,211.365,Good
+691,691,"Sports and travel",9,70.19,31.5855,663.2955,Good
+692,692,"Food and beverages",7,55.04,19.264,404.544,Good
+693,693,"Health and beauty",10,48.63,24.315,510.615,Good
+694,694,"Fashion accessories",7,73.38,25.683,539.343,Good
+695,695,"Food and beverages",9,52.6,23.67,497.07,Good
+696,696,"Home and lifestyle",5,87.37,21.8425,458.6925,Good
+697,697,"Sports and travel",4,27.04,5.408,113.568,Good
+698,698,"Home and lifestyle",4,62.19,12.438,261.198,Good
+699,699,"Electronic accessories",9,69.58,31.311,657.531,Good
+700,700,"Home and lifestyle",10,97.5,48.75,1023.75,Good
+701,701,"Fashion accessories",8,60.41,24.164,507.444,Good
+702,702,"Food and beverages",3,32.32,4.848,101.808,Good
+703,703,"Fashion accessories",10,19.77,9.885,207.585,Good
+704,704,"Health and beauty",9,80.47,36.2115,760.4415,Good
+705,705,"Home and lifestyle",9,88.39,39.7755,835.2855,Good
+706,706,"Health and beauty",7,71.77,25.1195,527.5095,Good
+707,707,"Electronic accessories",4,43,8.6,180.6,Good
+708,708,"Food and beverages",1,68.98,3.449,72.429,Good
+709,709,"Fashion accessories",8,15.62,6.248,131.208,Good
+710,710,"Sports and travel",3,25.7,3.855,80.955,Good
+711,711,"Food and beverages",6,80.62,24.186,507.906,Good
+712,712,"Home and lifestyle",4,75.53,15.106,317.226,Good
+713,713,"Electronic accessories",9,77.63,34.9335,733.6035,Good
+714,714,"Health and beauty",9,13.85,6.2325,130.8825,Good
+715,715,"Fashion accessories",8,98.7,39.48,829.08,Good
+716,716,"Health and beauty",5,35.68,8.92,187.32,Good
+717,717,"Fashion accessories",7,71.46,25.011,525.231,Good
+718,718,"Electronic accessories",3,11.94,1.791,37.611,Good
+719,719,"Fashion accessories",3,45.38,6.807,142.947,Good
+720,720,"Fashion accessories",6,17.48,5.244,110.124,Good
+721,721,"Fashion accessories",7,25.56,8.946,187.866,Good
+722,722,"Sports and travel",9,90.63,40.7835,856.4535,Good
+723,723,"Home and lifestyle",3,44.12,6.618,138.978,Good
+724,724,"Food and beverages",7,36.77,12.8695,270.2595,Good
+725,725,"Food and beverages",4,23.34,4.668,98.028,Good
+726,726,"Health and beauty",8,28.5,11.4,239.4,Good
+727,727,"Home and lifestyle",3,55.57,8.3355,175.0455,Good
+728,728,"Sports and travel",10,69.74,34.87,732.27,Good
+729,729,"Fashion accessories",4,97.26,19.452,408.492,Good
+730,730,"Home and lifestyle",7,52.18,18.263,383.523,Good
+731,731,"Fashion accessories",4,22.32,4.464,93.744,Good
+732,732,"Health and beauty",3,56,8.4,176.4,Good
+733,733,"Fashion accessories",1,19.7,0.985,20.685,Good
+734,734,"Electronic accessories",7,75.88,26.558,557.718,Good
+735,735,"Food and beverages",1,53.72,2.686,56.406,Good
+736,736,"Health and beauty",10,81.95,40.975,860.475,Good
+737,737,"Home and lifestyle",7,81.2,28.42,596.82,Good
+738,738,"Electronic accessories",10,58.76,29.38,616.98,Good
+739,739,"Electronic accessories",8,91.56,36.624,769.104,Good
+740,740,"Home and lifestyle",9,93.96,42.282,887.922,Good
+741,741,"Home and lifestyle",7,55.61,19.4635,408.7335,Good
+742,742,"Food and beverages",1,84.83,4.2415,89.0715,Good
+743,743,"Sports and travel",2,71.63,7.163,150.423,Good
+744,744,"Home and lifestyle",2,37.69,3.769,79.149,Good
+745,745,"Sports and travel",8,31.67,12.668,266.028,Good
+746,746,"Food and beverages",1,38.42,1.921,40.341,Good
+747,747,"Fashion accessories",10,65.23,32.615,684.915,Good
+748,748,"Home and lifestyle",5,10.53,2.6325,55.2825,Good
+749,749,"Home and lifestyle",9,12.29,5.5305,116.1405,Good
+750,750,"Health and beauty",7,81.23,28.4305,597.0405,Good
+751,751,"Fashion accessories",4,22.32,4.464,93.744,Good
+752,752,"Food and beverages",5,27.28,6.82,143.22,Good
+753,753,"Electronic accessories",10,17.42,8.71,182.91,Good
+754,754,"Home and lifestyle",5,73.28,18.32,384.72,Good
+755,755,"Fashion accessories",3,84.87,12.7305,267.3405,Good
+756,756,"Fashion accessories",8,97.29,38.916,817.236,Good
+757,757,"Electronic accessories",8,35.74,14.296,300.216,Good
+758,758,"Home and lifestyle",6,96.52,28.956,608.076,Good
+759,759,"Food and beverages",10,18.85,9.425,197.925,Good
+760,760,"Food and beverages",4,55.39,11.078,232.638,Good
+761,761,"Food and beverages",10,77.2,38.6,810.6,Good
+762,762,"Electronic accessories",10,72.13,36.065,757.365,Good
+763,763,"Fashion accessories",8,63.88,25.552,536.592,Good
+764,764,"Health and beauty",5,10.69,2.6725,56.1225,Good
+765,765,"Health and beauty",4,55.5,11.1,233.1,Good
+766,766,"Home and lifestyle",8,95.46,38.184,801.864,Good
+767,767,"Fashion accessories",3,76.06,11.409,239.589,Good
+768,768,"Sports and travel",6,13.69,4.107,86.247,Good
+769,769,"Electronic accessories",4,95.64,19.128,401.688,Good
+770,770,"Home and lifestyle",6,11.43,3.429,72.009,Good
+771,771,"Sports and travel",4,95.54,19.108,401.268,Good
+772,772,"Health and beauty",7,85.87,30.0545,631.1445,Good
+773,773,"Sports and travel",7,67.99,23.7965,499.7265,Good
+774,774,"Food and beverages",1,52.42,2.621,55.041,Good
+775,775,"Food and beverages",2,65.65,6.565,137.865,Good
+776,776,"Food and beverages",5,28.86,7.215,151.515,Good
+777,777,"Health and beauty",7,65.31,22.8585,480.0285,Good
+778,778,"Sports and travel",1,93.38,4.669,98.049,Good
+779,779,"Sports and travel",5,25.25,6.3125,132.5625,Good
+780,780,"Electronic accessories",9,87.87,39.5415,830.3715,Good
+781,781,"Health and beauty",8,21.8,8.72,183.12,Good
+782,782,"Sports and travel",4,94.76,18.952,397.992,Good
+783,783,"Fashion accessories",1,30.62,1.531,32.151,Good
+784,784,"Home and lifestyle",8,44.01,17.604,369.684,Good
+785,785,"Health and beauty",5,10.16,2.54,53.34,Good
+786,786,"Electronic accessories",7,74.58,26.103,548.163,Good
+787,787,"Electronic accessories",8,71.89,28.756,603.876,Good
+788,788,"Health and beauty",5,10.99,2.7475,57.6975,Good
+789,789,"Health and beauty",3,60.47,9.0705,190.4805,Good
+790,790,"Sports and travel",7,58.91,20.6185,432.9885,Good
+791,791,"Fashion accessories",1,46.41,2.3205,48.7305,Good
+792,792,"Health and beauty",4,68.55,13.71,287.91,Good
+793,793,"Home and lifestyle",10,97.37,48.685,1022.385,Good
+794,794,"Electronic accessories",7,92.6,32.41,680.61,Good
+795,795,"Electronic accessories",2,46.61,4.661,97.881,Good
+796,796,"Fashion accessories",2,27.18,2.718,57.078,Good
+797,797,"Home and lifestyle",1,60.87,3.0435,63.9135,Good
+798,798,"Sports and travel",10,24.49,12.245,257.145,Good
+799,799,"Health and beauty",1,92.78,4.639,97.419,Good
+800,800,"Home and lifestyle",5,86.69,21.6725,455.1225,Good
+801,801,"Sports and travel",6,23.01,6.903,144.963,Good
+802,802,"Electronic accessories",8,30.2,12.08,253.68,Good
+803,803,"Fashion accessories",7,67.39,23.5865,495.3165,Good
+804,804,"Fashion accessories",9,48.96,22.032,462.672,Good
+805,805,"Electronic accessories",9,75.59,34.0155,714.3255,Good
+806,806,"Home and lifestyle",4,77.47,15.494,325.374,Good
+807,807,"Sports and travel",2,93.18,9.318,195.678,Good
+808,808,"Electronic accessories",4,50.23,10.046,210.966,Good
+809,809,"Health and beauty",1,17.75,0.8875,18.6375,Good
+810,810,"Fashion accessories",10,62.18,31.09,652.89,Good
+811,811,"Health and beauty",8,10.75,4.3,90.3,Good
+812,812,"Electronic accessories",10,40.26,20.13,422.73,Good
+813,813,"Sports and travel",5,64.97,16.2425,341.0925,Good
+814,814,"Electronic accessories",1,95.15,4.7575,99.9075,Good
+815,815,"Electronic accessories",8,48.62,19.448,408.408,Good
+816,816,"Food and beverages",8,53.21,21.284,446.964,Good
+817,817,"Fashion accessories",7,45.44,15.904,333.984,Good
+818,818,"Food and beverages",8,33.88,13.552,284.592,Good
+819,819,"Health and beauty",4,96.16,19.232,403.872,Good
+820,820,"Food and beverages",5,47.16,11.79,247.59,Good
+821,821,"Electronic accessories",4,52.89,10.578,222.138,Good
+822,822,"Home and lifestyle",2,47.68,4.768,100.128,Good
+823,823,"Sports and travel",1,10.17,0.5085,10.6785,Good
+824,824,"Health and beauty",3,68.71,10.3065,216.4365,Good
+825,825,"Sports and travel",7,60.08,21.028,441.588,Good
+826,826,"Sports and travel",4,22.01,4.402,92.442,Good
+827,827,"Health and beauty",9,72.11,32.4495,681.4395,Good
+828,828,"Fashion accessories",3,41.28,6.192,130.032,Good
+829,829,"Electronic accessories",10,64.95,32.475,681.975,Good
+830,830,"Electronic accessories",10,74.22,37.11,779.31,Good
+831,831,"Electronic accessories",8,10.56,4.224,88.704,Good
+832,832,"Health and beauty",4,62.57,12.514,262.794,Good
+833,833,"Sports and travel",8,11.85,4.74,99.54,Good
+834,834,"Health and beauty",1,91.3,4.565,95.865,Good
+835,835,"Home and lifestyle",7,40.73,14.2555,299.3655,Good
+836,836,"Fashion accessories",1,52.38,2.619,54.999,Good
+837,837,"Fashion accessories",5,38.54,9.635,202.335,Good
+838,838,"Sports and travel",6,44.63,13.389,281.169,Good
+839,839,"Electronic accessories",10,55.87,27.935,586.635,Good
+840,840,"Sports and travel",6,29.22,8.766,184.086,Good
+841,841,"Fashion accessories",3,51.94,7.791,163.611,Good
+842,842,"Electronic accessories",1,60.3,3.015,63.315,Good
+843,843,"Sports and travel",2,39.47,3.947,82.887,Good
+844,844,"Food and beverages",2,14.87,1.487,31.227,Good
+845,845,"Fashion accessories",1,21.32,1.066,22.386,Good
+846,846,"Electronic accessories",3,93.78,14.067,295.407,Good
+847,847,"Electronic accessories",1,73.26,3.663,76.923,Good
+848,848,"Sports and travel",1,22.38,1.119,23.499,Good
+849,849,"Food and beverages",9,72.88,32.796,688.716,Good
+850,850,"Fashion accessories",6,99.1,29.73,624.33,Good
+851,851,"Fashion accessories",1,74.1,3.705,77.805,Good
+852,852,"Fashion accessories",2,98.48,9.848,206.808,Good
+853,853,"Health and beauty",7,53.19,18.6165,390.9465,Good
+854,854,"Electronic accessories",10,52.79,26.395,554.295,Good
+855,855,"Health and beauty",5,95.95,23.9875,503.7375,Good
+856,856,"Fashion accessories",9,36.51,16.4295,345.0195,Good
+857,857,"Food and beverages",8,21.12,8.448,177.408,Good
+858,858,"Home and lifestyle",4,28.31,5.662,118.902,Good
+859,859,"Health and beauty",6,57.59,17.277,362.817,Good
+860,860,"Food and beverages",9,47.63,21.4335,450.1035,Good
+861,861,"Home and lifestyle",1,86.27,4.3135,90.5835,Good
+862,862,"Sports and travel",2,12.76,1.276,26.796,Good
+863,863,"Home and lifestyle",9,11.28,5.076,106.596,Good
+864,864,"Home and lifestyle",7,51.07,17.8745,375.3645,Good
+865,865,"Electronic accessories",3,79.59,11.9385,250.7085,Good
+866,866,"Health and beauty",3,33.81,5.0715,106.5015,Good
+867,867,"Sports and travel",8,90.53,36.212,760.452,Good
+868,868,"Health and beauty",2,62.82,6.282,131.922,Good
+869,869,"Food and beverages",3,24.31,3.6465,76.5765,Good
+870,870,"Sports and travel",4,64.59,12.918,271.278,Good
+871,871,"Food and beverages",7,24.82,8.687,182.427,Good
+872,872,"Fashion accessories",1,56.5,2.825,59.325,Good
+873,873,"Electronic accessories",10,21.43,10.715,225.015,Good
+874,874,"Sports and travel",6,89.06,26.718,561.078,Good
+875,875,"Home and lifestyle",4,23.29,4.658,97.818,Good
+876,876,"Home and lifestyle",8,65.26,26.104,548.184,Good
+877,877,"Fashion accessories",1,52.35,2.6175,54.9675,Good
+878,878,"Electronic accessories",1,39.75,1.9875,41.7375,Good
+879,879,"Electronic accessories",8,90.02,36.008,756.168,Good
+880,880,"Electronic accessories",8,12.1,4.84,101.64,Good
+881,881,"Food and beverages",10,33.21,16.605,348.705,Good
+882,882,"Fashion accessories",8,10.18,4.072,85.512,Good
+883,883,"Sports and travel",10,31.99,15.995,335.895,Good
+884,884,"Home and lifestyle",6,34.42,10.326,216.846,Good
+885,885,"Food and beverages",2,83.34,8.334,175.014,Good
+886,886,"Sports and travel",7,45.58,15.953,335.013,Good
+887,887,"Food and beverages",1,87.9,4.395,92.295,Good
+888,888,"Electronic accessories",10,73.47,36.735,771.435,Good
+889,889,"Fashion accessories",8,12.19,4.876,102.396,Good
+890,890,"Sports and travel",10,76.92,38.46,807.66,Good
+891,891,"Health and beauty",5,83.66,20.915,439.215,Good
+892,892,"Electronic accessories",8,57.91,23.164,486.444,Good
+893,893,"Fashion accessories",5,92.49,23.1225,485.5725,Good
+894,894,"Electronic accessories",5,28.38,7.095,148.995,Good
+895,895,"Electronic accessories",6,50.45,15.135,317.835,Good
+896,896,"Health and beauty",8,99.16,39.664,832.944,Good
+897,897,"Fashion accessories",7,60.74,21.259,446.439,Good
+898,898,"Food and beverages",6,47.27,14.181,297.801,Good
+899,899,"Health and beauty",7,85.6,29.96,629.16,Good
+900,900,"Food and beverages",9,35.04,15.768,331.128,Good
+901,901,"Electronic accessories",9,44.84,20.178,423.738,Good
+902,902,"Home and lifestyle",4,45.97,9.194,193.074,Good
+903,903,"Health and beauty",5,27.73,6.9325,145.5825,Good
+904,904,"Food and beverages",7,11.53,4.0355,84.7455,Good
+905,905,"Health and beauty",2,58.32,5.832,122.472,Good
+906,906,"Home and lifestyle",4,78.38,15.676,329.196,Good
+907,907,"Health and beauty",10,84.61,42.305,888.405,Good
+908,908,"Health and beauty",5,82.88,20.72,435.12,Good
+909,909,"Food and beverages",2,79.54,7.954,167.034,Good
+910,910,"Home and lifestyle",10,49.01,24.505,514.605,Good
+911,911,"Food and beverages",3,29.15,4.3725,91.8225,Good
+912,912,"Electronic accessories",4,56.13,11.226,235.746,Good
+913,913,"Home and lifestyle",8,93.12,37.248,782.208,Good
+914,914,"Fashion accessories",8,51.34,20.536,431.256,Good
+915,915,"Food and beverages",3,99.6,14.94,313.74,Good
+916,916,"Electronic accessories",6,35.49,10.647,223.587,Good
+917,917,"Sports and travel",1,42.85,2.1425,44.9925,Good
+918,918,"Fashion accessories",4,94.67,18.934,397.614,Good
+919,919,"Home and lifestyle",3,68.97,10.3455,217.2555,Good
+920,920,"Electronic accessories",3,26.26,3.939,82.719,Good
+921,921,"Home and lifestyle",9,35.79,16.1055,338.2155,Good
+922,922,"Home and lifestyle",6,16.37,4.911,103.131,Good
+923,923,"Home and lifestyle",2,12.73,1.273,26.733,Good
+924,924,"Sports and travel",7,83.14,29.099,611.079,Good
+925,925,"Sports and travel",6,35.22,10.566,221.886,Good
+926,926,"Electronic accessories",4,13.78,2.756,57.876,Good
+927,927,"Sports and travel",1,88.31,4.4155,92.7255,Good
+928,928,"Health and beauty",9,39.62,17.829,374.409,Good
+929,929,"Electronic accessories",9,88.25,39.7125,833.9625,Good
+930,930,"Sports and travel",2,25.31,2.531,53.151,Good
+931,931,"Home and lifestyle",6,99.92,29.976,629.496,Good
+932,932,"Fashion accessories",2,83.35,8.335,175.035,Good
+933,933,"Food and beverages",10,74.44,37.22,781.62,Good
+934,934,"Health and beauty",7,64.08,22.428,470.988,Good
+935,935,"Home and lifestyle",6,63.15,18.945,397.845,Good
+936,936,"Home and lifestyle",3,85.72,12.858,270.018,Good
+937,937,"Health and beauty",7,78.89,27.6115,579.8415,Good
+938,938,"Sports and travel",5,89.48,22.37,469.77,Good
+939,939,"Health and beauty",3,92.09,13.8135,290.0835,Good
+940,940,"Food and beverages",6,57.29,17.187,360.927,Good
+941,941,"Food and beverages",4,66.52,13.304,279.384,Good
+942,942,"Fashion accessories",9,99.82,44.919,943.299,Good
+943,943,"Home and lifestyle",10,45.68,22.84,479.64,Good
+944,944,"Health and beauty",5,50.79,12.6975,266.6475,Good
+945,945,"Health and beauty",7,10.08,3.528,74.088,Good
+946,946,"Electronic accessories",7,93.88,32.858,690.018,Good
+947,947,"Electronic accessories",2,84.25,8.425,176.925,Good
+948,948,"Fashion accessories",1,53.78,2.689,56.469,Good
+949,949,"Home and lifestyle",5,35.81,8.9525,188.0025,Good
+950,950,"Food and beverages",8,26.43,10.572,222.012,Good
+951,951,"Health and beauty",3,39.91,5.9865,125.7165,Good
+952,952,"Home and lifestyle",3,21.9,3.285,68.985,Good
+953,953,"Food and beverages",4,62.85,12.57,263.97,Good
+954,954,"Food and beverages",4,21.04,4.208,88.368,Good
+955,955,"Home and lifestyle",6,65.91,19.773,415.233,Good
+956,956,"Fashion accessories",7,42.57,14.8995,312.8895,Good
+957,957,"Food and beverages",9,50.49,22.7205,477.1305,Good
+958,958,"Electronic accessories",6,46.02,13.806,289.926,Good
+959,959,"Home and lifestyle",10,15.8,7.9,165.9,Good
+960,960,"Food and beverages",9,98.66,44.397,932.337,Good
+961,961,"Fashion accessories",1,91.98,4.599,96.579,Good
+962,962,"Electronic accessories",2,20.89,2.089,43.869,Good
+963,963,"Fashion accessories",1,15.5,0.775,16.275,Good
+964,964,"Electronic accessories",3,96.82,14.523,304.983,Good
+965,965,"Food and beverages",2,33.33,3.333,69.993,Good
+966,966,"Electronic accessories",2,38.27,3.827,80.367,Good
+967,967,"Home and lifestyle",9,33.3,14.985,314.685,Good
+968,968,"Home and lifestyle",3,81.01,12.1515,255.1815,Good
+969,969,"Health and beauty",3,15.8,2.37,49.77,Good
+970,970,"Electronic accessories",5,34.49,8.6225,181.0725,Good
+971,971,"Food and beverages",10,84.63,42.315,888.615,Good
+972,972,"Home and lifestyle",7,36.91,12.9185,271.2885,Good
+973,973,"Electronic accessories",7,87.08,30.478,640.038,Good
+974,974,"Home and lifestyle",3,80.08,12.012,252.252,Good
+975,975,"Fashion accessories",2,86.13,8.613,180.873,Good
+976,976,"Fashion accessories",2,49.92,4.992,104.832,Good
+977,977,"Food and beverages",4,74.66,14.932,313.572,Good
+978,978,"Food and beverages",6,26.6,7.98,167.58,Good
+979,979,"Electronic accessories",1,25.45,1.2725,26.7225,Good
+980,980,"Food and beverages",1,67.77,3.3885,71.1585,Good
+981,981,"Food and beverages",4,59.59,11.918,250.278,Good
+982,982,"Health and beauty",4,58.15,11.63,244.23,Good
+983,983,"Sports and travel",9,97.48,43.866,921.186,Good
+984,984,"Health and beauty",7,99.96,34.986,734.706,Good
+985,985,"Electronic accessories",7,96.37,33.7295,708.3195,Good
+986,986,"Fashion accessories",5,63.71,15.9275,334.4775,Good
+987,987,"Health and beauty",2,14.76,1.476,30.996,Good
+988,988,"Health and beauty",8,62,24.8,520.8,Good
+989,989,"Electronic accessories",10,82.34,41.17,864.57,Good
+990,990,"Health and beauty",8,75.37,30.148,633.108,Good
+991,991,"Food and beverages",5,56.56,14.14,296.94,Good
+992,992,"Sports and travel",10,76.6,38.3,804.3,Good
+993,993,"Electronic accessories",2,58.03,5.803,121.863,Good
+994,994,"Fashion accessories",10,17.49,8.745,183.645,Good
+995,995,"Electronic accessories",1,60.95,3.0475,63.9975,Good
+996,996,"Health and beauty",1,40.35,2.0175,42.3675,Good
+997,997,"Home and lifestyle",10,97.38,48.69,1022.49,Good
+998,998,"Food and beverages",1,31.84,1.592,33.432,Good
+999,999,"Home and lifestyle",1,65.82,3.291,69.111,Good
+1000,1000,"Fashion accessories",7,88.34,30.919,649.299,Good
